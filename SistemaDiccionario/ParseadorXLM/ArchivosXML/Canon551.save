@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Camaras xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <saveCamera>Canon551</saveCamera>
+  <lista>
+    <Elemento>
+      <item>Puerta1</item>
+      <descripcion>Hace cosas1</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Puerta2</item>
+      <descripcion>Hace cosas2</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>B3</item>
+      <descripcion>Hace cosas3</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>B4</item>
+      <descripcion>Hace cosas4</descripcion>
+    </Elemento>
+  </lista>
+</Camaras>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Camaras xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <saveCamera>HarryPotter</saveCamera>
+  <lista>
+    <Elemento>
+      <item>kkasdo </item>
+      <descripcion>alñsdalk</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>aslkdalsd</item>
+      <descripcion>aksdlaskd</descripcion>
+    </Elemento>
+  </lista>
+</Camaras>

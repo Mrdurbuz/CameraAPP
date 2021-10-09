@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Camaras xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <saveCamera>Optica</saveCamera>
+  <lista>
+    <Elemento>
+      <item>Rueda_Low</item>
+      <descripcion>SIRVE PARA ACERCAR Y ALEJAR EL OBJETIVO</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Detalle01_Low</item>
+      <descripcion>DATOS DE OBJETIVO</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>PiezaNumeros_Low</item>
+      <descripcion>UNA PIEZA CON NUMEROS</descripcion>
+    </Elemento>
+  </lista>
+</Camaras>

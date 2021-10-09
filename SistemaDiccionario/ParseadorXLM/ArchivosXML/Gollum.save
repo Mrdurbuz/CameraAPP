@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Camaras xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <saveCamera>Gollum</saveCamera>
+  <lista>
+    <Elemento>
+      <item>123 </item>
+      <descripcion>wdaw</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>awd</item>
+      <descripcion>123213</descripcion>
+    </Elemento>
+  </lista>
+</Camaras>

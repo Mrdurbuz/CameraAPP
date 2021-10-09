@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<Camaras xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <saveCamera>ZoomTest</saveCamera>
+  <lista>
+    <Elemento>
+      <item>Anillo_De_Foco</item>
+      <descripcion>SIRVE PARA QUE LA IMAGEN SALGA NÍTIDA</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Anillo_De_Zoom</item>
+      <descripcion>SIRVE PARA ACERCAR O ALEJAR LA IMAGEN</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Boton_De_Diafragma</item>
+      <descripcion>PARA PONERLO EN AUTOMÁTICO O EN MANUAL</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Back_Focus</item>
+      <descripcion>SIRVE PARA AJUSTAR EL OBJETIVO DE LA CÁMARA
+	  AL CUERPO DE CÁMARA </descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Boton_Grabacion</item>
+      <descripcion>INICIAR GRABACIÓN</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Boton_Iris</item>
+      <descripcion>SIRVE PARA QUE, AL PULSARLO, LA CÁMARA DECIDA
+	  AUTOMÁTICAMENTE QUE DIAFRAGMA ES EL MÁS IDÓNEO</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Boton_Servo_Zoom</item>
+      <descripcion>SIRVE PARA REALIZAR EL ZOOM DE FORMA SUAVE ELECTRÓNICAMENTE</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Diafragma</item>
+      <descripcion>SIRVE PARA DEJAR QUE ENTRE MÁS O MENOS LUZ AL OBJETIVO DE LA CÁMARA</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Macro</item>
+      <descripcion>SIRVE PARA COGER FOCO A OBJETOS MUY CERCANOS AL OBJETIVO </descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Visor_LCD</item>
+      <descripcion>DONDE VEMOS EL PLANO</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>LCD_Bright</item>
+      <descripcion>PARA AJUSTAR EL BRILLO EN EL VISOR</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>LCD_Peaking</item>
+      <descripcion>PARA AJUSTAR EL PEAKING EN EL VISOR (AJUSTE DE FOCUS ASSIST)</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Audio_Select</item>
+      <descripcion>PARA PONER EL CH1 Y EL CH2 DE AUDIO EN AUTOMÁTICO O EN MANUAL</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Generador_Codigo_Tiempo</item>
+      <descripcion>BOTÓN DE DISPLAY EN TC (TIME CODE) Y BOTÓN GENE (GENERADOR)
+	  EN REC (GENERA CÓDIGO ÚNICAMENTE CUANDO SE GRABA) FREE (GENERA CÓDIGO
+	  CONTINUAMENTE COMO SI FUESE UN RELOJ) REGEN (REGENERA EL CÓDIGO
+	  A 00:00 CADA VEZ QUE SE GRABA)</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Selector_Escucha_Audio</item>
+      <descripcion>PODEMOS ELEGIR ENTRE CH1, CH2 O AMBOS PARA OIR A TRAVÉS DE LOS CASCOS</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Display</item>
+      <descripcion>PARA ACTIVAR O DESACTIVAR EL DISPLAY  </descripcion>
+    </Elemento>
+    <Elemento>
+      <item>CAM/Media</item>
+      <descripcion>PARA IR A LA TARJETA SD Y VER LO QUE HEMOS GRABADO </descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Full_Auto</item>
+      <descripcion>PONE TODA LA CÁMARA EN AUTOMÁTICO</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Focus_Assist</item>
+      <descripcion>EL LCD Y EL VISOR SE PONEN EN BLANCO Y NEGRO Y LAS ZONAS ENFOCADAS DE COLOR AZUL</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Botones_De_Usuario</item>
+      <descripcion>PARA AJUSTARLOS  A TRAVÉS DEL MENÚ INTERNO Y CONSEGUIR AJUSTES RÁPIDOS 
+	  DE LA FUNCIÓN QUE QUIERA EL USUARIO</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Filtros_ND</item>
+      <descripcion>FILTROS DE DENSIDAD NEUTRA.SI HAY EXCESO DE LUZ SIRVE PARA PONER
+	  FILTROS EN EL OBJETIVO PARA QUE LA IMAGEN NO SE QUEME</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Status</item>
+      <descripcion>NOS INFORMA DE TODOS LOS AJUSTES QUE HEMOS HECHO EN EL DISPLAY</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Botón_De_Encendido</item>
+      <descripcion>ENCIENDE LA CÁMARA</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>REC</item>
+      <descripcion>GRABACIÓN DEL PLANO</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Audio_Select2</item>
+      <descripcion>PARA AJUSTAR EL NIVEL DE ENTRADA DE GRABACIÓN DE AUDIO. SI LOS LEDS ESTÁN
+	  ENCENDIDOS SIGNIFICA QUE ESTÁN EN AUTOMÁTICO (BOTÓN 4 DEL BLOQUE ANTERIOR)
+	  Y NO DEJARÁ CAMBIARLO</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Boton_Stop/Cancel</item>
+      <descripcion>PARA PARAR UN PLANO QUE ESTAMOS VISIONANDO O SALIR DEL MENÚ</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Cruceta_Display/Shutter</item>
+      <descripcion>PARA AJUSTAR LA VELOCIDAD DE OBTURACIÓN Y PARA MOVERNOS A 
+      TRAVÉS DEL MENÚ INTERNO DE LA CÁMARA</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Monitor</item>
+      <descripcion>SIRVE PARA AJUSTAR EL VOLUMEN DE LOS CASCOS, NO AFECTA AL NIVEL DE 
+	  VOLUMEN DE LA GRABACIÓN, SÓLO ES PARA ESCUCHA</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>CH2_Input</item>
+      <descripcion>  AQUÍ ELEGIMOS SI QUEREMOS EL CH 2 COMO CANAL DE AUDIO INDEPENDIENTE
+	  O QUE HAGA UNA COPIA DEL CH1</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Audio_Input</item>
+      <descripcion>  AQUÍ ELEGIMOS LO QUE QUEREMOS EN CADA CANAL DE AUDIO. MIC + 48 V ES LA
+	  ALIMENTACIÓN PHANTOM QUE NECESITAN LOS MICRÓFONOS PARA QUE FUNCIONES,
+	  PRINCIPALMENTE DECAÑÓN O DE CORBATA MIC ES PARA SI UTILIZAMOS
+	  MICRÓFONOS DE CONDENSADOR, CON SU PROPIA BATERÍA, MICRÓFONOS
+	  DE MANO PRINCIPALMENTE LINE: PARA CUANDO GRABEMOS A TRAVÉS
+	  DE UNA MESA DE SONIDO </descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Auricular_Camara</item>
+      <descripcion>Auricular_Camara</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Entrada_Minijack_Cascos</item>
+      <descripcion>Entrada_Minijack_Cascos</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Apertura_Entrada_SD1</item>
+      <descripcion>Apertura_Entrada_SD1</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Apertura_Entrada_SD2</item>
+      <descripcion>Apertura_Entrada_SD2</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Boton_De_Zebra</item>
+      <descripcion>SIRVE PARA QUE VISUALMENTE EN EL VISOR NOS APAREZCA UNA ZONA CEBREADA
+	  (CON LÍNEAS) QUE NOS INDICA QUE ESA PARTE DEL PLANO SE ENCUENTRA SOBREEXPUESTA
+	  DE LUZ , IMAGEN QUEMADA.</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Boton_De_Balance_De_Blancos</item>
+      <descripcion>AUTO WHITE BALANCE , BOTÓN ÚLTIMO QUE HAY QUE PULSAR PARA REALIZAR 
+      CORRECTAMENTE EL BALANCE DE BLANCOS.</descripcion>
+    </Elemento>
+    <Elemento>
+      <item>Tally</item>
+      <descripcion>LED ROJO QUE NOS INDICA CUANDO ESTÁ GRABANDO LA CÁMARA</descripcion>
+    </Elemento>
+  </lista>
+</Camaras>
